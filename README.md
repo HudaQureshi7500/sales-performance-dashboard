@@ -46,7 +46,7 @@ Completed.
 ## Dashboard Preview
 
 ### Sales Performance Dashboard
-![Sales Performance Dashboard](Sales-dashboard.png)
+![Sales Performance Dashboard](Sales-Dashboard.png)
 
 ---
 
