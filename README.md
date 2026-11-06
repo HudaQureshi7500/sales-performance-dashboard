@@ -30,6 +30,8 @@ This project presents an interactive Sales Performance Dashboard developed using
 
 ## Files Included
 
+- `Superstore.xlsx` – Excel dashboard and analysis file.
+
 - `YOUR-EXCEL-FILENAME.xlsx` – Excel dashboard and analysis file.
 
 ## How to View the Project
