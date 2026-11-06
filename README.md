@@ -43,6 +43,10 @@ This project presents an interactive Sales Performance Dashboard developed using
 ## Project Status
 
 Completed.
+## Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Performance Dashboard](Sales-dashboard.png)
 
 ---
 
